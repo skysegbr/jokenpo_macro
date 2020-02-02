@@ -1,2 +1,2 @@
 # jokenpo_macro
-Rust Jokenpo macro
+Jokenpo written in rust using macro
